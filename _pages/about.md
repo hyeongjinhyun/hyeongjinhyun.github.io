@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Post Doctorate Research Associate at Purdue University, working with [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/) and [Dr. Haibo Liu](https://sites.google.com/view/haiboliu). 
+
+I earned my Ph.D. in Statistics from Purdue University, where I was advised by [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/). 
+My research interests lie at the intersection of statistics, machine learning, and generative AI, with a focus on bridging the gap between statistical methodology and modern machine learning techniques. Prior to my Ph.D., I received an M.S. in Statistics from Seoul National University in South Korea, and a B.S. in Mathematical Sciences and Statistics from the same institution. 
+
+Outside of research, I enjoy hiking, weightlifting, CrossFit, and swimming. I also appreciate exploring different coffees, wines, and craft beers.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
