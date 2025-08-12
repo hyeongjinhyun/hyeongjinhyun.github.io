@@ -196,6 +196,13 @@ keep_files:
   - CNAME
   - .nojekyll
 
+exclude:
+  - _news/announcement_*.md
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
+
 # Plug-ins
 plugins:
   - jekyll-archives-v2
