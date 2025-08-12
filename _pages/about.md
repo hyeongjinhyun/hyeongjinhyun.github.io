@@ -26,6 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 I am currently a Post Doctorate Research Associate at Purdue University, working with [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/) and [Dr. Haibo Liu](https://sites.google.com/view/haiboliu). 
 
 I earned my Ph.D. in Statistics from Purdue University, where I was advised by [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/). 
