@@ -198,7 +198,7 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _pages/projects.md
   - _pages/repositories.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _pages/publications_original.md
   - _pages/dropdown.md
   
