@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>hyun18@purdue.edu</p>
-    <p>G146, 150 N University Street,</p>
+    <p>203, 150 N University Street,</p>
     <p>West Lafayette, IN 47907</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
