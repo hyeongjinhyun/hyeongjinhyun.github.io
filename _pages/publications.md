@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: default
 permalink: /publications/
 title: Publications 
 nav: true
