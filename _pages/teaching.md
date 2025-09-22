@@ -1,12 +1,26 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses and roles across Purdue University and Seoul National University (SNU).
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+## Instructor
+- **STAT 598: Qualifying exam preparation course** — *Purdue, 2024–2025*  
+  
+## Teaching Assistant
+- **STAT 301: Elementary Statistical Methodology** — *Purdue, 2020–2023*  
+  
+- **STAT 519: Introduction to Probability Theory** — *Purdue, 2022*  
+  
+- **STAT 512: Applied Regression Analysis** — *Purdue, 2020*  
+  
+- **Statistical Consulting and Practices** — *SNU, 2019*  
+  
+- **Mathematical Statistics** — *SNU, 2018*  
+  
+---
