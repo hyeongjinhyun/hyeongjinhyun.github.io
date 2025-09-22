@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching Experience
-
 ## Instructor
 - **STAT 598: Qualifying exam preparation course** — *Purdue, 2024–2025*  
   
@@ -22,5 +20,3 @@ nav_order: 6
 - **Statistical Consulting and Practices** — *SNU, 2019*  
   
 - **Mathematical Statistics** — *SNU, 2018*  
-  
----
