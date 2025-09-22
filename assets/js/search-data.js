@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Courses and roles across Purdue University and Seoul National University (SNU).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
