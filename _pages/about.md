@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hyun18@purdue.edu</p>
+    <p>hyun18 /at/ purdue /./ edu</p>
     <p>203, 150 N University Street,</p>
     <p>West Lafayette, IN 47907</p>
 
