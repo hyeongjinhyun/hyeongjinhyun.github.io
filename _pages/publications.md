@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 ### Papers Under Review
-- Hyeong Jin Hyun and Xiao Wang, <br> *Neural Amortized Bayesian Calibration*.
+- Hyeong Jin Hyun and Xiao Wang, <br> *Neural Amortized Bayesian Computation*.
 
 ---
 ### Published Papers
