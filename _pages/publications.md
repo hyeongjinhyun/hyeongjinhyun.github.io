@@ -13,6 +13,6 @@ nav_order: 2
 
 ---
 ### Published Papers
-- Yijia Liu, Hyeong Jin Hyun, and Xiao Wang <br> *Regularized Physics-Informed Neural Networks for Parameter Estimation in Differential Equation Models*. **Technometrics**, to appear (2026+)
+- Yijia Liu, Hyeong Jin Hyun, and Xiao Wang <br> *Regularized Physics-Informed Neural Networks for Parameter Estimation in Differential Equation Models*. **Technometrics**, to appear (2026+) 
 - Hyeong Jin Hyun and Xiao Wang, <br> *Fast Cost-constrained High Dimensional Regression*. <br> **Statistica Sinica**, to appear (2026+). 
-- Hyeong Jin Hyun and Xiao Wang, <br> *Neural Conformal Inference for Jump Diffusion Processes*. <br> **Journal of Econometrics** (2025). 
+- Hyeong Jin Hyun and Xiao Wang, <br> *Neural Conformal Inference for Jump Diffusion Processes*. <br> **Journal of Econometrics** (2025). [link](https://www.sciencedirect.com/science/article/pii/S0304407625001150)
