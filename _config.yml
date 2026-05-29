@@ -201,12 +201,11 @@ exclude:
   - _pages/profiles.md
   - _pages/publications_original.md
   - _pages/dropdown.md
-  
+
 keep_files:
   - CNAME
   - .nojekyll
 
-  
 # Plug-ins
 plugins:
   - jekyll-archives-v2
