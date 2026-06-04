@@ -28,14 +28,3 @@ I received my Ph.D. in Statistics from Purdue University, where I was advised by
 My research focuses on the interface between **statistical methodology, machine learning, and generative AI**. I am particularly interested in developing principled statistical frameworks that enhance the theoretical foundations and practical performance of modern machine learning techniques.
 
 Prior to my doctoral studies, I earned my M.S. in Statistics at Seoul National University, where I was advised by [Dr. Johan Lim](https://sites.google.com/view/johanlim), and completed my B.S. in Mathematical Sciences and Statistics at the same institution.
-
-## Education
-### Purdue University  
-**Ph.D. in Statistics**, 2025
-Advisor: **Dr. Xiao Wang**
-
-### Seoul National University  
-**M.S. in Statistics**, 2020
-Advisor: **Prof. Johan Lim**
-
-**B.S. in Mathematical Sciences & Statistics**, 2018
