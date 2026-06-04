@@ -23,6 +23,19 @@ latest_posts:
 ---
 
 I am currently a Post Doctorate Research Associate at Purdue University, working with [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/) and [Dr. Haibo Liu](https://sites.google.com/view/haiboliu).
-I earned my Ph.D. in Statistics from Purdue University, where I was advised by [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/).
-My research interests lie at the intersection of statistics, machine learning, and generative AI, with a focus on bridging the gap between statistical methodology and modern machine learning techniques. Prior to my Ph.D., I received an M.S. in Statistics from Seoul National University in South Korea, and a B.S. in Mathematical Sciences and Statistics from the same institution.
-Outside of research, I enjoy hiking, weightlifting, CrossFit, and swimming. I also appreciate exploring different coffees, wines, and craft beers.
+I received my Ph.D. in Statistics from Purdue University, where I was advised by Dr. Wang.
+
+My research focuses on the interface between **statistical methodology, machine learning, and generative AI**. I am particularly interested in developing principled statistical frameworks that enhance the theoretical foundations and practical performance of modern machine learning techniques.
+
+Prior to my doctoral studies, I earned my M.S. in Statistics at Seoul National University, where I was advised by [Dr. Johan Lim](https://sites.google.com/view/johanlim), and completed my B.S. in Mathematical Sciences and Statistics at the same institution.
+
+## Education
+### Purdue University  
+**Ph.D. in Statistics**, 2025
+Advisor: **Dr. Xiao Wang**
+
+### Seoul National University  
+**M.S. in Statistics**, 2020
+Advisor: **Prof. Johan Lim**
+
+**B.S. in Mathematical Sciences & Statistics**, 2018
