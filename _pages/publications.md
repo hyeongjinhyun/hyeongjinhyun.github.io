@@ -18,5 +18,5 @@ nav_order: 2
 
 - Yijia Liu, **Hyeong Jin Hyun**, and Xiao Wang. <br> _Regularized Physics-Informed Neural Networks for Parameter Estimation in Differential Equation Models_. <br> **Technometrics**, to appear (2026). [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2026.2682174)
 - **Hyeong Jin Hyun** and Xiao Wang. <br> _Neural Conformal Inference for Jump Diffusion Processes_. <br> **Journal of Econometrics** (2025). [[link]](https://www.sciencedirect.com/science/article/pii/S0304407625001150)
-- **Hyeong Jin Hyun** and Xiao Wang. <br> _Fast Cost-constrained High Dimensional Regression_. <br> **Statistica Sinica**, to appear (2024). [[preprint]](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0331.html)
+- **Hyeong Jin Hyun** and Xiao Wang. <br> _Fast Cost-constrained High Dimensional Regression_. <br> **Statistica Sinica** (2024). [[link]](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0331.html)
 
