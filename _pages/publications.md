@@ -11,7 +11,7 @@ nav_order: 2
 ### Papers Under Review
 
 - **Hyeong Jin Hyun** and Xiao Wang. <br> _Neural Amortized Bayesian Computation_.
-- **Hyeong Jin Hyun** and Xiao Wang. <br> _Transport-induced Amortized Bayesian Computation_.
+- **Hyeong Jin Hyun**, Haibo Liu and Xiao Wang. <br> _Transport-induced Amortized Bayesian Computation_.
 
 ---
 
