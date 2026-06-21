@@ -13,8 +13,6 @@ nav_order: 2
 - **Hyeong Jin Hyun** and Xiao Wang. <br> _Neural Amortized Bayesian Computation_.
 - **Hyeong Jin Hyun**, Haibo Liu and Xiao Wang. <br> _Transport-induced Amortized Bayesian Computation_.
 
----
-
 ### Published Papers
 
 - Yijia Liu, **Hyeong Jin Hyun**, and Xiao Wang. <br> _Regularized Physics-Informed Neural Networks for Parameter Estimation in Differential Equation Models_. <br> **Technometrics** (2026). [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2026.2682174)
