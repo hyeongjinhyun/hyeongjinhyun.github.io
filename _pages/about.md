@@ -7,9 +7,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hyun18 /at/ purdue /./ edu</p>
-    <p>203, 150 N University Street,</p>
-    <p>West Lafayette, IN 47907</p>
+    <p>hyunhi /at/ ucmail /./ uc /./ edu</p>
+    <p> 5502 French Hall West, 
+    <p>2815, Commons Way, Cincinnati, OH 45221</p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 announcements:
