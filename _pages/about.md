@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am joining the Department of Statistics at the University of Cincinnati as an Assistant Professor in Fall 2026. Prior to this, I was a Postdoctoral Research Associate at Purdue University, working with [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/) and [Dr. Haibo Liu](https://sites.google.com/view/haiboliu).
+I am an Assistant Professor in the Department of Statistics and Data Science at the University of Cincinnati. Prior to this, I was a Postdoctoral Research Associate at Purdue University, working with [Dr. Xiao Wang](http://https://www.stat.purdue.edu/~wangxiao/) and [Dr. Haibo Liu](https://sites.google.com/view/haiboliu).
 I received my Ph.D. in Statistics from Purdue University, where I was advised by Dr. Wang.
 
 My research focuses on the interface between **statistical methodology, machine learning, and generative AI**. I am particularly interested in developing principled statistical frameworks that enhance the theoretical foundations and practical performance of modern machine learning techniques.
